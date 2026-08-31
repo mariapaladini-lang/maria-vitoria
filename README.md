@@ -28,7 +28,7 @@
         min-height:100vh;
      }
      
-     \*Container principal-centralizado*\.container{
+     Container principal-centralizado*\.container{
         max-width;800px:
         width:100%;
         display:flex;
@@ -36,7 +36,7 @@
         align-items:center;
      }
 
-     \*Cabeçalho *\
+   *Cabeçalho *\
      header h1{
         background-color:#183c63;
         color:#ffffff:
@@ -62,4 +62,11 @@ header.logo{
    max-width: 100%
    margin-bottom: 10px;
    border-raudius: 4px;
+}
+
+|*Conteúdo principal*|
+main {
+   background-color: #ffffff;
+   color:#1a1a2e;
+   padding: 32px 24px;
 }
